@@ -7,6 +7,11 @@ Problema de Programaçãoo Linear que tem como objetivo minimizar os custos de t
 Modelar, de forma genérica, o problema do transporte considerando os dois
 possíveis casos (balanceado e desbalanceado). No caso desbalanceado, têm-se tanto `produção > demanda` e `produção < demanda`.
 
+## Pré-requisito:
+
+- IDE + Java
+- Biblioteca[ OR-Tools](https://drive.google.com/drive/folders/1p6Rv_-L9yC5mb95PGovguOaika1JlADH)
+
 ## Exemplo de entrada (arquivo no formato .txt):
 
 3 2       `Número de origens e número de destinos`

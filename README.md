@@ -26,3 +26,12 @@ possíveis casos (balanceado e desbalanceado). No caso desbalanceado, têm-se ta
 
 5 9       `Custo do transporte por unidade da origem 3 aos destinos 1 e 2`
 
+
+## Caso Balanceado (Producao = Demanda)
+![balanceado](./balanceado.png)
+
+# Caso Desbalanceado (Producao > Demanda)
+![desbalanceado1](./desbalanceado1.png)
+
+# Caso Desbalanceado (Producao < Demanda)
+![desbalanceado2](./desbalanceado2.png)
